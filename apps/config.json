@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "示例应用",
+      "folder": "example",
+      "enabled": true
+    }
+  ]
+}
